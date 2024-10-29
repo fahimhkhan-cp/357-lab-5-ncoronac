@@ -11,7 +11,7 @@ void test1() {
    checkit_string(result, expected);
 }
 
-void test1() {
+void test2() {
    char input[] = "Hello THERE";
    char *expected = "hello there";
 
